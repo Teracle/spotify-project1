@@ -7,9 +7,9 @@
 * 
 * Name: ____Maxim Nosov__ Student ID: _129458204_____ Date: ____04/03/2022____________
 *
-* Angular App (Deployed) Link: ___https://spotify-project1.vercel.app/newReleases______________________________________________
+* Angular App (Deployed) Link: ___https://spotify-project1.vercel.app______________________________________________
 *
-* User API (Heroku) Link: https://spotify-project1.vercel.app_______________________
+* User API (Heroku) Link: https://web422-spotify-api.herokuapp.com/api/user_______________________
 *
 ********************************************************************************/
 
