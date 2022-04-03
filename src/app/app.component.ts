@@ -1,4 +1,18 @@
 
+/*********************************************************************************
+* WEB422 – Assignment 06
+* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
+* assignment has been copied manually or electronically from any other source (including web sites) or 
+* distributed to other students.
+* 
+* Name: ____Maxim Nosov__ Student ID: _129458204_____ Date: ____04/03/2022____________
+*
+* Angular App (Deployed) Link: ___https://spotify-project1.vercel.app/newReleases______________________________________________
+*
+* User API (Heroku) Link: https://web422-spotify-api.herokuapp.com/api/user_______________________
+*
+********************************************************************************/
+
 import { Component, OnInit } from '@angular/core';
 import { Router, Event, NavigationStart } from '@angular/router';
 import { AuthService } from './auth.service';
@@ -18,7 +32,7 @@ export class AppComponent implements OnInit {
 
   ngOnInit(): void {
     this.router.events.subscribe((event: Event) => {
-      if (event instanceof NavigationStart) { // only read the token on "NavigationStart"
+      if (event instanceof NavigationStart) { 
         this.token = this.auth.readToken();
       }
     });
