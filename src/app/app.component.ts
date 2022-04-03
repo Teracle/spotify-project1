@@ -9,14 +9,14 @@
 *
 * Angular App (Deployed) Link: ___https://spotify-project1.vercel.app/newReleases______________________________________________
 *
-* User API (Heroku) Link: https://web422-spotify-api.herokuapp.com/api/user_______________________
+* User API (Heroku) Link: https://spotify-project1.vercel.app_______________________
 *
 ********************************************************************************/
 
 import { Component, OnInit } from '@angular/core';
 import { Router, Event, NavigationStart } from '@angular/router';
 import { AuthService } from './auth.service';
-
+ 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
