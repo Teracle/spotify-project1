@@ -1,6 +1,7 @@
 export const environment = {
   production: true,
-  clientID: "476b7513192847849cdabf0bcd929acc",
-  clientSecret: "5b80dab17bda456685479ff04a6716a8",
+  clientID: "25eea08157234937a876d49ba5a1cdec",
+  clientSecret: "4397942fa1654eb3bd047096e0c5b63f",
   userAPIBase: "https://web422-spotify-api.herokuapp.com/api/user"
 };
+

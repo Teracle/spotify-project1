@@ -1,14 +1,3 @@
-/********************************************************************************* 
-* WEB422 – Assignment 06 
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this 
-* assignment has been copied manually or electronically from any other source (including web sites) or 
-* distributed to other students. 
-* 
-* Name: _Rony Alberto Boscan__ Student ID: _136-346-194__ Date: _29/04/2021_____ 
-*
-* Online Link: _https://modest-minsky-73d338.netlify.app/_____________________
-* 
-*********************************************************************************/
 
 import { Component, OnInit } from '@angular/core';
 import { Router, Event, NavigationStart } from '@angular/router';
