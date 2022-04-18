@@ -1,4 +1,4 @@
-Project: https://spotify-project1.vercel.app/newReleases
+Project: https://spotify-project1.vercel.app/
 
 # Web422A4
 
